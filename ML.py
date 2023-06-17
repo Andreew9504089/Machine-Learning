@@ -13,6 +13,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn.utils import shuffle
 from eli5.sklearn import PermutationImportance
 
+import optuna
 
 
 # %%
